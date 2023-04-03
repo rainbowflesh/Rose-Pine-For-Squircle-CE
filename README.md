@@ -13,19 +13,17 @@
 
 ## Usage
 
+1. Get [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+2. Download this repository in whatever location you want.
+3. In Squircle-CE, go to `Setting/Application/Color Scheme`.
+4. Press `+` icon right side.
+5. Press right upper import button, select this repository's json file.
+6. Press `save` button below `Short description`.
+7. Press 'SELECT' button in preview page, and Done!
+
 ## Gallery
 
-### Rosé Pine
-
-![Rosé Pine](./assets/rose1.png)
-
-### Rosé Pine Moon
-
-![Rosé Pine](./assets/rm2.png)
-
-### Rosé Pine Dawn
-
-![Rosé Pine](./assets/rd3.png)
+![preview](./assets/preview.jpg)
 
 ## Thanks to
 
@@ -35,7 +33,7 @@
 
 ## Contributing
 
-Modify `` then PR ;)
+Modify `Rosé Pine *.json` then PR ;)
 
 ## Color Palette
 
